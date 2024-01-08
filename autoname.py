@@ -26,7 +26,7 @@ async def main():
       try:
          if ay != time:
             ay = time
-            await app.update_profile(first_name=f'{zhrf_time(time)}' ,last_name=my_name)
+            await app.update_profile(first_name=my_name,last_name=f'{zhrf_time(time)}')
          else:
             await sleep(0)
       except FloodWait as e:
