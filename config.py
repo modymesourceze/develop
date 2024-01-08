@@ -1,12 +1,11 @@
 from mody import Mody
 from pyrogram import Client,filters,enums
 import redis
+
 r = redis.Redis(
-    host="127.0.0.1",
-    port=6379,
-    charset="utf-8",
-    decode_responses=True
-    )
+  host='redis-17811.c323.us-east-1-2.ec2.cloud.redislabs.com',
+  port=17811,
+  password='y41sFD7N8cY5Ob2MGPZkGdrTndVFY92h')
 
 sudo_id = 6581896306
 bot_user = "r4dbbot"
