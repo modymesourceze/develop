@@ -79,9 +79,9 @@ async def permalink_heno(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور **")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await c.send_message(msg.chat.id, f"**- لكك دي هذا المطور**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.from_user.id
     sos = random.choice(heno)
@@ -97,9 +97,9 @@ async def permalink_hob(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(hob)
@@ -115,9 +115,9 @@ async def permalink_onotha(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**- لكك دي هذا المطور زلمة وعلى راسك**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**- لكك دي هذه المطورة قمورة وعلى راسك**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**- لكك دي هذا المطور زلمة وعلى راسك**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(rr7)
@@ -145,9 +145,9 @@ async def permalink_rgola(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kz)
@@ -163,9 +163,9 @@ async def permalink_mnuka(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(mn)
@@ -179,11 +179,11 @@ async def permalink_tares(c, msg):
     ts = ['10', '20', '30','40','50','60','70','80','90','100']
     if not msg.reply_to_message:
         return
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(ts)
@@ -199,9 +199,9 @@ async def permalink_zakaa(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(zk)
@@ -217,9 +217,9 @@ async def permalink_korah(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**0%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kr)
@@ -235,9 +235,9 @@ async def permalink_gamdan(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(kmd)
@@ -253,9 +253,9 @@ async def permalink_ayman(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(aym)
@@ -271,9 +271,9 @@ async def permalink_gamal(c, msg):
         return
     if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
-    if msg.reply_to_message.from_user.id == 0000000000:
+    if msg.reply_to_message.from_user.id == 6581896306:
         return await msg.edit(f"**100%**")
     muh = msg.from_user.first_name.replace("\u2060", "") if msg.from_user.first_name else msg.reply_to_message
     sos = random.choice(gam)
@@ -1319,3 +1319,833 @@ async def qmor_1(c, msg):
     
 
 # == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("دائره$", prefixes=f".") & filters.me)
+async def circle_1(c, msg):
+    animation_interval = 0.3
+    animation_ttl = range(20)
+    event = await c.send_message(msg.chat.id, "دائره...")
+    animation_chars = ["⚫", "⬤", "●", "∘", "‎"]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 4])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+
+@Client.on_message(filters.command("تنصيب$", prefixes=f".") & filters.me)
+async def anem_1(c, msg):
+    animation_interval = 1
+    animation_ttl = range(20)
+    event = await c.send_message(msg.chat.id, "😢")
+    animation_chars = [
+        "😁",
+        "😧",
+        "😡",
+        "😢",
+        "‎**تنصيب سورس زد إي**",
+        "??",
+        "😧",
+        "😡",
+        "😢",
+        "__**[قناه تنصيب حسابات تيليثون - ✅]**__(t.me/Source_Ze)",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 10])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("بشره$", prefixes=f".") & filters.me)
+async def bZEra_1(c, msg):
+    animation_interval = 2
+    animation_ttl = range(6)
+    event = await c.send_message(msg.chat.id, "جميع ألوان البشره يرحقلبي - ❤.")
+    animation_chars = ["😁🏿", "😁🏾", "😁🏽", "😁🏼", "‎😁", "**#بباي....**"]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("قرد$", prefixes=f".") & filters.me)
+async def monkey_1(c, msg):
+    animation_interval = 2
+    animation_ttl = range(12)
+    event = await c.send_message(msg.chat.id, "خد قرود يرحقلبي 🤗😂")
+    animation_chars = ["🐵", "🙉", "🙈", "🙊", "🖕‎🐵🖕", "**بباي...**"]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("يد$", prefixes=f".") & filters.me)
+async def yad_1(c, msg):
+    animation_interval = 1
+    animation_ttl = range(13)
+    event = await c.send_message(msg.chat.id, "🖐️")
+    animation_chars = [
+        "👈",
+        "👉",
+        "☝️",
+        "👆",
+        "🖕",
+        "👇",
+        "✌️",
+        "🤞",
+        "🖖",
+        "🤘",
+        "🤙",
+        "🖐️",
+        "👌",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 13])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("العد التنازلي$", prefixes=f".") & filters.me)
+async def down_t_1(c, msg):
+    animation_interval = 1
+    animation_ttl = range(12)
+    event = await c.send_message(msg.chat.id, "العد التنازلي....")
+    animation_chars = [
+        "🔟",
+        "9️⃣",
+        "8️⃣",
+        "7️⃣",
+        "6️⃣",
+        "5️⃣",
+        "4️⃣",
+        "3️⃣",
+        "2️⃣",
+        "1️⃣",
+        "0️⃣",
+        "🆘",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 12])
+
+# == == == == == == == == == == == == == == == == == == == =
+
+@Client.on_message(filters.command("نيكول$", prefixes=f".") & filters.me)
+async def tikol_1(c, msg):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀⠀⠀⠀   ⢳⡀⠀⡏⠀⠀⠀   ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀  ⠀   ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Nikal   ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀  ⣿  ⢹⠀        ⡇\n  ⠙⢿⣯⠄⠀⠀⠀__⠀⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀⠀⠀⠀  ⠀⢳⡀⠀⡏⠀⠀⠀   ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀      ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Lavde   ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀  ⣿  ⢹⠀        ⡇\n  ⠙⢿⣯⠄⠀⠀|__|⠀⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀     ⠀⢳⡀⠀⡏⠀⠀    ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀⠀⠀     ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Pehli   ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀  ⣿  ⢹⠀         ⡇\n  ⠙⢿⣯⠄⠀⠀(P)⠀⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀     ⠀⢳⡀⠀⡏⠀⠀    ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀   ⠀     ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Fursat  ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀   ⣿  ⢹⠀        ⡇\n  ⠙⢿⣯⠄⠀⠀⠀__ ⠀⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀⠀⠀⠀   ⢳⡀⠀⡏⠀⠀    ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀⠀ ⠀     ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Meeee   ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀⠀  ⣿  ⢹⠀        ⡇\n  ⠙⢿⣯⠄⠀⠀|__| ⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+        "`⠀⠀⠀⣠⣶⡾⠏⠉⠙⠳⢦⡀⠀⠀⠀⢠⠞⠉⠙⠲⡀⠀\n ⠀⣴⠿⠏⠀⠀⠀⠀⠀  ⠀⢳⡀⠀⡏⠀⠀    ⠀⢷\n⢠⣟⣋⡀⢀⣀⣀⡀⠀⣀⡀⣧⠀⢸⠀  ⠀     ⡇\n⢸⣯⡭⠁⠸⣛⣟⠆⡴⣻⡲⣿  ⣸ Nikal   ⡇\n ⣟⣿⡭⠀⠀⠀⠀⠀⢱⠀   ⣿  ⢹⠀        ⡇\n  ⠙⢿⣯⠄⠀⠀lodu⠀⠀⡿ ⠀⡇⠀⠀⠀⠀    ⡼\n⠀⠀⠀⠹⣶⠆⠀⠀⠀⠀⠀⡴⠃⠀   ⠘⠤⣄⣠⠞⠀\n⠀⠀⠀⠀⢸⣷⡦⢤⡤⢤⣞⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⢀⣤⣴⣿⣏⠁⠀⠀⠸⣏⢯⣷⣖⣦⡀⠀⠀⠀⠀⠀⠀\n⢀⣾⣽⣿⣿⣿⣿⠛⢲⣶⣾⢉⡷⣿⣿⠵⣿⠀⠀⠀⠀⠀⠀\n⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀ ⠀⣄⢸⠀⠀⠀⠀⠀⠀`",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("نجمه$", prefixes=f".") & filters.me)
+async def star_1(c, msg):
+    deq = deque(list("🦋✨🦋✨🦋✨🦋✨"))
+    for _ in range(48):
+        await asyncio.sleep(0.3)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+
+
+@Client.on_message(filters.command("مكعبات$", prefixes=f".") & filters.me)
+async def mq3bat_1(c, msg):
+    deq = deque(list("🟥🟧🟨🟩🟦🟪🟫⬛⬜"))
+    for _ in range(50):
+        await asyncio.sleep(0.3)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+
+@Client.on_message(filters.command("مطر$", prefixes=f".") & filters.me)
+async def rain_1(c, msg):
+    msg = await c.send_message(msg.chat.id, "`مطر.......`")
+    deq = deque(list("🌬☁️🌩🌨🌧🌦🌥⛅🌤"))
+    for _ in range(48):
+        await asyncio.sleep(0.3)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("تفريغ$", prefixes=f".") & filters.me)
+async def tafreq_1(c, msg):
+    # try:
+    #     obj = msg.pattern_match.group(1)
+    #     if len(obj) != 3:
+    #         return await msg.edit("`Input length must be 3 or empty`")
+    #     inp = " ".join(obj)
+    # except IndexError:
+    #     inp = "🥞 🎂 🍫"
+    inp = "🥞 🎂 🍫"
+    u, t, g, o, s, n = inp.split(), "🗑", "<(^_^ <)", "(> ^_^)>", "⠀ ", "\n"
+    h = [(u[0], u[1], u[2]), (u[0], u[1], ""), (u[0], "", "")]
+    for something in reversed(
+            [
+                y
+                for y in (
+                    [
+                        "".join(x)
+                        for x in (
+                            f + (s, g, s + s * f.count(""), t),
+                            f + (g, s * 2 + s * f.count(""), t),
+                            f[:i] + (o, f[i], s * 2 + s * f.count(""), t),
+                            f[:i] + (s + s * f.count(""), o, f[i], s, t),
+                            f[:i] + (s * 2 + s * f.count(""), o, f[i], t),
+                            f[:i] + (s * 3 + s * f.count(""), o, t),
+                            f[:i] + (s * 3 + s * f.count(""), g, t),
+                    )
+                    ]
+                    for i, f in enumerate(reversed(h))
+            )
+            ]
+    ):
+        for something_else in something:
+            await asyncio.sleep(0.3)
+            await msg.edit(something_else)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+
+
+
+
+
+@Client.on_message(filters.command("hack", ".") & filters.me)
+async def hak(client: Client, message: Message):
+  await message.edit_text("Looking for WhatsApp databases in targeted person...")
+  asyncio.sleep(2)
+  await message.edit_text(" User online: True\nTelegram access: True\nRead Storage: True ")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 0%\n[░░░░░░░░░░░░░░░░░░░░]\nLooking for WhatsApp...\nETA: 0m, 20s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 11.07%\n[██░░░░░░░░░░░░░░░░░░]\nLooking for WhatsApp...\nETA: 0m, 18s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 20.63%\n[███░░░░░░░░░░░░░░░░░]\nFound folder C:/WhatsApp\nETA: 0m, 16s")  
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 34.42%\n[█████░░░░░░░░░░░░░░░]\nFound folder C:/WhatsApp\nETA: 0m, 14s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 42.17%\n[███████░░░░░░░░░░░░░]\nSearching for databases\nETA: 0m, 12s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 55.30%\n[█████████░░░░░░░░░░░]\nFound msgstore.db.crypt12\nETA: 0m, 10s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 64.86%\n[███████████░░░░░░░░░]\nFound msgstore.db.crypt12\nETA: 0m, 08s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 74.02%\n[█████████████░░░░░░░]\nTrying to Decrypt...\nETA: 0m, 06s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 86.21%\n[███████████████░░░░░]\nTrying to Decrypt...\nETA: 0m, 04s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 93.50%\n[█████████████████░░░]\nDecryption successful!\nETA: 0m, 02s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking... 100%\n[████████████████████]\nScanning file...\nETA: 0m, 00s")
+  asyncio.sleep(2)
+  await message.edit_text("Hacking complete!\nUploading file...")
+  asyncio.sleep(2)
+  await message.edit_text("Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n./DOWNLOADS/msgstore.db.crypt12")
+ 
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("شرطة$", prefixes=f".") & filters.me)
+async def offeser_1(c, msg):
+    if not msg.reply_to_message:
+        return
+    animation_interval = 0.3
+    animation_ttl = range(12)
+    mention = (await c.get_users(msg.reply_to_message.from_user.id)).mention
+    animation_chars = [
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        "🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴\n🔵🔵🔵⬜⬜⬜🔴🔴🔴",
+        "🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵\n🔴🔴🔴⬜⬜⬜🔵🔵🔵",
+        f"{mention} **Police iz Here**",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 12])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("MODY$", prefixes=f".") & filters.me)
+async def jio_1(c, msg):
+    animation_interval = 1
+    animation_ttl = range(19)
+    event = await c.send_message(msg.chat.id, "jio network boosting...")
+    animation_chars = [
+        "`Connecting To JIO NETWORK ....`",
+        "`█ ▇ ▆ ▅ ▄ ▂ ▁`",
+        "`▒ ▇ ▆ ▅ ▄ ▂ ▁`",
+        "`▒ ▒ ▆ ▅ ▄ ▂ ▁`",
+        "`▒ ▒ ▒ ▅ ▄ ▂ ▁`",
+        "`▒ ▒ ▒ ▒ ▄ ▂ ▁`",
+        "`▒ ▒ ▒ ▒ ▒ ▂ ▁`",
+        "`▒ ▒ ▒ ▒ ▒ ▒ ▁`",
+        "`▒ ▒ ▒ ▒ ▒ ▒ ▒`",
+        "*Optimising JIO NETWORK...*",
+        "`▒ ▒ ▒ ▒ ▒ ▒ ▒`",
+        "`▁ ▒ ▒ ▒ ▒ ▒ ▒`",
+        "`▁ ▂ ▒ ▒ ▒ ▒ ▒`",
+        "`▁ ▂ ▄ ▒ ▒ ▒ ▒`",
+        "`▁ ▂ ▄ ▅ ▒ ▒ ▒`",
+        "`▁ ▂ ▄ ▅ ▆ ▒ ▒`",
+        "`▁ ▂ ▄ ▅ ▆ ▇ ▒`",
+        "`▁ ▂ ▄ ▅ ▆ ▇ █`",
+        "**JIO NETWORK Boosted....**",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await event.edit(animation_chars[i % 19])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("النظام الشمسي$", prefixes=f".") & filters.me)
+async def sun_sys_1(c, msg):
+    animation_interval = 0.1
+    animation_ttl = range(80)
+    animation_chars = [
+        "`◼️◼️◼️◼️◼️\n◼️◼️◼️◼️☀\n◼️◼️🌎◼️◼️\n🌕◼️◼️◼️◼️\n◼️◼️◼️◼️◼️`",
+        "`◼️◼️◼️◼️◼️\n🌕◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️☀\n◼️◼️◼️◼️◼️`",
+        "`◼️🌕◼️◼️◼️\n◼️◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️◼️\n◼️◼️◼️☀◼️`",
+        "`◼️◼️◼️🌕◼️\n◼️◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️◼️\n◼️☀◼️◼️◼️`",
+        "`◼️◼️◼️◼️◼️\n◼️◼️◼️◼️🌕\n◼️◼️🌎◼️◼️\n☀◼️◼️◼️◼️\n◼️◼️◼️◼️◼️`",
+        "`◼️◼️◼️◼️◼️\n☀◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️🌕\n◼️◼️◼️◼️◼️`",
+        "`◼️☀◼️◼️◼️\n◼️◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️◼️\n◼️◼️◼️🌕◼️`",
+        "`◼️◼️◼️☀◼️\n◼️◼️◼️◼️◼️\n◼️◼️🌎◼️◼️\n◼️◼️◼️◼️◼️\n◼️🌕◼️◼️◼️`",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await msg.edit(animation_chars[i % 8])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("افكر$", prefixes=f".") & filters.me)
+async def guess_1(c, msg):
+    deq = deque(list("🤔🧐🤔🧐🤔🧐"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("ساعه$", prefixes=f".") & filters.me)
+async def clock_1(c, msg):
+    deq = deque(list("🕙🕘🕗🕖🕕🕔🕓🕒🕑🕐🕛"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("مح$", prefixes=f".") & filters.me)
+async def moh_1(c, msg):
+    deq = deque(list("😗😙😚😚💋😚😘"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("جيم$", prefixes=f".") & filters.me)
+async def game_11(c, msg):
+    deq = deque(list("🏃‍🏋‍🤸‍🏃‍🏋‍🤸‍🏃‍🏋‍🤸‍"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("الارض$", prefixes=f".") & filters.me)
+async def ard_1(c, msg):
+    deq = deque(list("🌏🌍🌎🌎🌍🌏🌍🌎"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("قمر$", prefixes=f".") & filters.me)
+async def qamr_1(c, msg):
+    deq = deque(list("🌗🌘🌑🌒🌓🌔🌕🌖"))
+    for _ in range(48):
+        await asyncio.sleep(0.2)
+        await msg.edit("".join(deq))
+        deq.rotate(1)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("اقمار$", prefixes=f".") & filters.me)
+async def aqmar_1(c, msg):
+    event = await c.send_message(msg.chat.id, "اقمار")
+    animation_interval = 0.2
+    animation_ttl = range(101)
+    await event.edit("اقمار..")
+    animation_chars = [
+        "🌗🌗🌗🌗🌗\n🌓🌓🌓🌓🌓\n🌗🌗🌗🌗🌗\n🌓🌓🌓🌓🌓\n🌗🌗🌗🌗🌗",
+        "🌘🌘🌘🌘🌘\n🌔🌔🌔🌔🌔\n🌘🌘🌘🌘🌘\n🌔🌔🌔🌔🌔\n🌘🌘🌘🌘🌘",
+        "🌑🌑🌑🌑🌑\n🌕🌕🌕🌕🌕\n🌑🌑🌑🌑🌑\n🌕🌕🌕🌕🌕\n🌑🌑🌑🌑🌑",
+        "🌒🌒🌒🌒🌒\n🌖🌖🌖🌖🌖\n🌒🌒🌒🌒🌒\n🌖🌖🌖🌖🌖\n🌒🌒🌒🌒🌒",
+        "🌓🌓🌓🌓🌓\n🌗🌗🌗🌗🌗\n🌓🌓🌓🌓🌓\n🌗🌗🌗🌗🌗\n🌓🌓🌓🌓🌓",
+        "🌔🌔🌔🌔🌔\n🌘🌘🌘🌘🌘\n🌔🌔🌔🌔🌔\n🌘🌘🌘🌘🌘\n🌔🌔🌔🌔🌔",
+        "🌕🌕🌕🌕🌕\n🌑🌑🌑🌑🌑\n🌕🌕🌕🌕🌕\n🌑🌑🌑🌑🌑\n🌕🌕🌕🌕🌕",
+        "🌖🌖🌖🌖🌖\n🌒🌒🌒🌒🌒\n🌖🌖🌖🌖🌖\n🌒🌒🌒🌒🌒\n🌖🌖🌖🌖🌖",
+    ]
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await event.edit(animation_chars[i % 8])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("غبي", ".") & filters.me)
+async def pijtau(client: Client, message: Message):
+    if message.forward_from:
+        return
+    animation_interval = 1
+    animation_ttl = range(0, 14)
+    await message.edit("brain")
+    animation_chars = [
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠         <(^_^ <)🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠       <(^_^ <)  🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠     <(^_^ <)    🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠   <(^_^ <)      🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠 <(^_^ <)        🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n🧠<(^_^ <)         🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n(> ^_^)>🧠         🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n  (> ^_^)>🧠       🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n    (> ^_^)>🧠     🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n      (> ^_^)>🧠   🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n        (> ^_^)>🧠 🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n          (> ^_^)>🧠🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n           (> ^_^)>🗑",
+        "YOᑌᖇ ᗷᖇᗩIᑎ ➡️ 🧠\n\n           <(^_^ <)🗑",
+    ]
+    for i in animation_ttl:
+
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 14])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("دايره", ".") & filters.me)
+async def gkahgagw(client: Client, message: Message):
+    animation_interval = 0.3
+    animation_ttl = range(0, 30)
+    animation_chars = [
+        "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
+        "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
+        "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
+        "⬜⬜⬛⬜⬜\n⬜⬜⬜⬛⬜\n⬜⬜⬜⬜🔴",
+        "⬜⬜⬛⬛🔴\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
+        "⬜⬜⬛⬜⬜\n⬜⬜⬜⬛⬜\n⬜⬜⬜⬜🔴",
+        "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
+        "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
+        "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱](https://t.me/Source_Ze) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("CR..CR..CR..CR")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 10])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command(["طياره", "طير"], ".") & filters.me)
+async def tyara(client: Client, message: Message):
+    await message.edit_text("✈-------------")
+    asyncio.sleep(1)
+    await message.edit_text("-✈------------")
+    asyncio.sleep(1)
+    await message.edit_text("--✈-----------")
+    asyncio.sleep(1)
+    await message.edit_text("---✈----------")
+    asyncio.sleep(1)
+    await message.edit_text("----✈---------")
+    asyncio.sleep(1)
+    await message.edit_text("-----✈--------")
+    asyncio.sleep(1)
+    await message.edit_text("------✈-------")
+    asyncio.sleep(1)
+    await message.edit_text("-------✈------")
+    asyncio.sleep(1)
+    await message.edit_text("--------✈-----")
+    asyncio.sleep(1)
+    await message.edit_text("---------✈----")
+    asyncio.sleep(1)
+    await message.edit_text("----------✈---")
+    asyncio.sleep(1)
+    await message.edit_text("-----------✈--")
+    asyncio.sleep(1)
+    await message.edit_text("------------✈-")
+    asyncio.sleep(1)
+    await message.edit_text("-------------✈")
+    
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command(["مرتبطين", "كبلز"], ".") & filters.me)
+async def zeyenk(client: Client, message: Message):
+    await message.edit_text("💝💘💓💗")
+    asyncio.sleep(2)
+    await message.edit_text("💞💕💗💘")
+    asyncio.sleep(2)
+    await message.edit_text("💝💘💓💗")
+    asyncio.sleep(2)
+    await message.edit_text("💞💕💗💘")
+    asyncio.sleep(2)
+    await message.edit_text("💘💞💗💕")
+    asyncio.sleep(2)
+    await message.edit_text("💘💞💕💗")
+    asyncio.sleep(2)
+    await message.edit_text("LOVE YOU 💝💖💘")
+    asyncio.sleep(2)
+    await message.edit_text("💝💘💓💗")
+    asyncio.sleep(2)                   
+    await message.edit_text("💞💕💗💘")
+    asyncio.sleep(2)
+    await message.edit_text("💘💞💕💗")
+    asyncio.sleep(2)
+    await message.edit_text("LOVE")
+    asyncio.sleep(2)
+    await message.edit_text("YOU")
+    asyncio.sleep(2)
+    await message.edit_text("FOREVER 💕")
+    asyncio.sleep(2)
+    await message.edit_text("💘💘💘💘")
+    asyncio.sleep(2)
+    await message.edit_text("LOVE")
+    asyncio.sleep(2)
+    await message.edit_text("I")
+    asyncio.sleep(2)
+    await message.edit_text("LOVE")
+    asyncio.sleep(2)
+    await message.edit_text("BABY")
+    asyncio.sleep(2)
+    await message.edit_text("I LOVE YOUUUU")
+    asyncio.sleep(2)
+    await message.edit_text("MY BABY")
+    asyncio.sleep(2)
+    await message.edit_text("💕💞💘💝")
+    asyncio.sleep(2)
+    await message.edit_text("💘💕💞💝")
+    asyncio.sleep(2)
+    await message.edit_text("LOVE YOU 💞")
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("قنبلة", ".") & filters.me)
+async def gahite(client: Client, message: Message):
+    if message.forward_from:
+        return
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n")
+    await asyncio.sleep(0.5)
+    await message.edit("💣💣💣💣 \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n💣💣💣💣 \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n💣💣💣💣 \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n💣💣💣💣 \n▪️▪️▪️▪️ \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n💣💣💣💣 \n")
+    await asyncio.sleep(1)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n💥💥💥💥 \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n💥💥💥💥 \n💥💥💥💥 \n")
+    await asyncio.sleep(0.5)
+    await message.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
+    await asyncio.sleep(0.5)
+    await message.edit("`BOOOOOOOM......`")
+    await asyncio.sleep(2)
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command(["ZE", "سورس زد إي", "السورس"], ".") & filters.me)
+async def gajjajay(client: Client, message: Message):
+    await message.edit("هلو")
+    await asyncio.sleep(0.3)
+    await message.edit("هنا")
+    await asyncio.sleep(0.2)
+    await message.edit("هتشوف الجمدان كلو")
+    await asyncio.sleep(0.5)
+    await message.edit("ZE بتعمل عظمه ")
+    await asyncio.sleep(0.2)
+    await message.edit("فوق")
+    await asyncio.sleep(0.3)
+    await message.edit("اي حد")
+    await asyncio.sleep(0.3)
+    await message.edit("🔥🔥🔥")
+    await asyncio.sleep(0.3)
+    await message.edit("سورس زد إي هيعمل عظمه 🥹❤️")
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("قناص", ".") & filters.me)
+async def knasas(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+        "_/﹋\\_\n" "(҂`_´)\n" "<,︻╦╤─ ҉\n" r"_/﹋\_" "\n اثبت محلك ؟! انت مفكرها زريبه ولا اي ي كابتن اثبت مكانك واقلع هدومك 🧐😂 ??!",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("جآري تثبيت الضحيه ...")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+@Client.on_message(filters.command("انتحر", ".") & filters.me)
+async def anthar(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+         "`كتفم حياتي اه😂...`          \n　　　　　|"
+        "\n　　　　　| \n"
+        "　　　　　| \n"
+        "　　　　　| \n"
+        "　　　　　| \n"
+        "　　　　　| \n"
+        "　　　　　| \n"
+        "　　　　　| \n"
+        "　／￣￣＼| \n"
+        "＜ ´･ 　　 |＼ \n"
+        "　|　３　 | 丶＼ \n"
+        "＜ 、･　　|　　＼ \n"
+        "　＼＿＿／∪ _ ∪) \n"
+        "　　　　　 Ｕ Ｕ\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("خلآص زهقتت من حيآتي جآري الانتحارر ...")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("اجري", ".") & filters.me)
+async def agryy(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+        "────██──────▀▀▀██\n"
+        "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
+        "▄▀──█▄▄──────█─█▄▄\n"
+        "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
+        "─▀───────▀▀─▀───────▀▀\n`اوعييي..`",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("يلآ انا هجري الي يحصلني يكسرني 🧐😂 ...")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("لايك", ".") & filters.me)
+async def likenice(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+         "‡‡‡‡‡‡‡‡‡‡‡‡▄▄▄▄\n"
+        "‡‡‡‡‡‡‡‡‡‡‡█‡‡‡‡█\n"
+        "‡‡‡‡‡‡‡‡‡‡‡█‡‡‡‡█\n"
+        "‡‡‡‡‡‡‡‡‡‡█‡‡‡‡‡█\n"
+        "‡‡‡‡‡‡‡‡‡█‡‡‡‡‡‡█\n"
+        "██████▄▄█‡‡‡‡‡‡████████▄\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
+        "█████‡‡‡‡‡‡‡██████████\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("جآري رزع افخم لآيك ع الابب يرحقلبي 💋❤ ...")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("دبابه", ".") & filters.me)
+async def dbabaa(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+        "█۞███████]▄▄▄▄▄▄▄▄▄▄▃ 💣💣\n"
+        "▂▄▅█████████▅▄▃▂…\n"
+        "[███████████████████]\n"
+        "◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤☃️\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("وسع يعم هدوسسك بالدبابه بتعتي 🤫😂 ...")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == ==
+
+@Client.on_message(filters.command("خنزير", ".") & filters.me)
+async def hanzer(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+        "┈┈┏━╮╭━┓┈╭━━━━╮\n"
+        "┈┈┃┏┗┛┓┃╭┫Ngok    ┃\n"
+        "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
+        "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
+        "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
+        "┈╰━┳┻▅╯╲╲╲╲┃┈┈┈\n"
+        "┈┈┈╰━┳┓┏┳┓┏╯┈┈┈\n"
+        "┈┈┈┈┈┗┻┛┗┻┛┈┈┈┈️\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("يلآ هطبخلك خنزير ع العشا انهارده 😎😂")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+# == == == == == == == == == == == == == == == == == == == ==
+
+
+@Client.on_message(filters.command("كلب", ".") & filters.me)
+async def klbklab(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+                "╥━━━━━━━━╭━━╮━━┳\n"
+                "╢╭╮╭━━━━━┫┃▋▋━▅┣\n"
+                "╢┃╰┫┈┈┈┈┈┃┃┈┈╰┫┣\n"
+                "╢╰━┫┈┈┈┈┈╰╯╰┳━╯┣\n"
+                "╢┊┊┃┏┳┳━━┓┏┳┫┊┊┣️\n"
+                "╨━━┗┛┗┛━━┗┛┗┛━━┻\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("خد يرحقلبي آفخم كلب بيتبول ليك - 🐕")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+# == == == == == == == == == == == == == == == == == == == =
+
+
+
+
+
+@Client.on_message(filters.command("سبونج", ".") & filters.me)
+async def sbong(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+                "┈┈ ╱▔▔▔▔▔▔▔▔▔▔▔▏\n"
+                "┈╱╭▏╮╭┻┻╮╭┻┻╮ ╭▏ \n"
+                "▕╮╰▏╯┃╭╮┃┃╭╮┃ ╰▏ \n"
+                "▕╯┈▏┈┗┻┻┛┗┻┻┻╮ ▏ \n"
+                "▕╭╮▏╮┈┈┈┈┏━━━╯ ▏\n"
+                "▕╰╯▏╯╰┳┳┳┳┳┳╯ ╭▏ \n"
+                "▕┈╭▏╭╮┃┗┛┗┛┃┈ ╰▏ \n"
+                "▕┈╰▏╰╯╰━━━━╯┈┈ ▏I'm سبـونـج بــوب\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("آنا سبونج بوب هوب لوب اصفر كموني 🤗😂")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+
+
+@Client.on_message(filters.command("صدمه", ".") & filters.me)
+async def sadma(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+                "⠄⠄⠄⠄⠄⣀⣀⣤⣶⣿⣿⣶⣶⣶⣤⣄⣠⣴⣶⣿⣶⣦⣄⠄\n"
+                 "⠄⣠⣴⣾⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦\n"
+                 "⢠⠾⣋⣭⣄⡀⠄⠙⠻⣿⣿⡿⠛⠋⠉⠉⠉⠙⠛⠿⣿⣿⣿⣿\n"
+                  "⡎⡟⢻⣿⣷⠄⠄⠄⠄⡼⣡⣾⣿⣿⣦⠄⠄⠄⠄⠄⠈⠛⢿⣿\n"
+                  "⡇⣷⣾⣿⠟⠄⠄⠄⢰⠁⣿⣇⣸⣿⣿⠄⠄⠄⠄⠄⠄⠄⣠⣼\n"
+                  "⣦⣭⣭⣄⣤⣤⣴⣶⣿⣧⡘⠻⠛⠛⠁⠄⠄⠄⠄⣀⣴⣿⣿⣿\n"
+                  "⢉⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿\n"
+                  "⡿⠛⠛⠛⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n"
+                  "⡇⠄⠄⢀⣀⣀⠄⠄⠄⠄⠉⠉⠛⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿\n"
+                  "⠈⣆⠄⠄⢿⣿⣿⣷⣶⣶⣤⣤⣀⣀⡀⠄⠄⠉⢻⣿⣿⣿⣿⣿\n"
+                  "⠄⣿⡀⠄⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠂⠄⢠⣿⣿⣿⣿⣿\n"
+                  "⠄⣿⡇⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄⢀⣼⣿⣿⣿⣿⣿\n"
+                 "⠄⣿⡇⠄⠠⣿⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⣠⣾⣿⣿⣿⣿⣿⣿\n"
+                "⠄⣿⠁⠄⠐⠛⠛⠛⠉⠉⠉⠉⠄⠄⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿\n"
+                "⠄⠻⣦⣀⣀⣀⣀⣀⣤⣤⣤⣤⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("جآري انشاء صدمتك - 😱")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])
+
+
+
+@Client.on_message(filters.command("فيل", ".") & filters.me)
+async def fela(client: Client, message: Message):
+    animation_interval = 0.5
+    animation_ttl = range(6)
+    animation_chars = [
+               "┈┈┈┈╱▔▔▔▔▔╲┈╱▔╲\n"
+               "┈┈┈┈▏┈┈▏╭╮▕┈▏╳▕\n"
+               "┈┈┈┈▏┈┈▏┈┈▕┈╲▂╱\n"
+               "┈╱▔▔╲▂╱╲▂▂┈╲▂▏▏\n"
+              "╭▏┈┈┈┈┈┈┈▏╲▂▂ ╱┈\n"
+              "┃▏┈┈┈┈▏┈┈▏┈┈┈┈┈\n"
+              "╯▏┈╲╱▔╲▅▅▏┈┈┈┈\n"
+               "┈╲▅▅▏▕▔▔▔▔▏┈┈┈┈ν2.ο\n",
+    ]
+    if message.forward_from:
+        return
+    await message.edit("وسسع يعم الفيل القمدد بتعي جآآي - 🐘")
+    await asyncio.sleep(4)
+    for i in animation_ttl:
+        await asyncio.sleep(animation_interval)
+        await message.edit(animation_chars[i % 6])                
