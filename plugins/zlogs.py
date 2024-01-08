@@ -7,7 +7,6 @@ time.tzset()
 
 
 @Client.on_message(filters.private & ~filters.bot)
-async@Client.on_message(filters.private & ~filters.bot)
 async def pv_cmd(c, msg):
     if msg.from_user.id != sudo_id:
         try:
