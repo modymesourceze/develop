@@ -22,7 +22,7 @@
             "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
-        "BOT_USER": {
+        "USER_NAME": {
             "description": "Your Bot User Without @",
             "value": ""            
         },

@@ -1,8 +1,11 @@
+from mody import Mody
 from datetime import timezone, datetime, timedelta
 from asyncio import sleep
 from time import strftime
 from config import *
 from pyrogram.errors import FloodWait
+
+user_name = Mody.USER_NAME
 
 def zhrf_time(time):
   time = str(time)
@@ -20,7 +23,7 @@ async def main():
       try:
          if ay != time:
             ay = time
-            await app.update_profile(first_name=f'{zhrf_time(time)}' ,last_name='⧛ 𓆩 𝑴𝒐𝒅𝒚 ➫ ⁽𝑆₎𝑻𝒆𝒂𝒎 ࿐ 𝑫 𝒆 𝒗 𝒊 𝒍 𓆪 ⧚')
+            await app.update_profile(first_name=f'{zhrf_time(time)}' ,last_name=user_name)
          else:
             await sleep(0)
       except FloodWait as e:
