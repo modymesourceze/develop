@@ -23,12 +23,16 @@
             "value": ""
         },
         "USER_NAME": {
-            "description": "Your Bot User Without @",
+            "description": "Your Name In Telegram",
             "value": ""            
         },
         "SESSION": {
             "description": "Your String Session Pyrogram V2",
             "value": ""            
+        },
+        "BOT_USER": {
+            "description": "Your Bot User Without @",
+            "value": ""            		
 	   }
 	},
 	"buildpacks": [
