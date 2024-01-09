@@ -16,5 +16,4 @@ yt_dlp
 requests
 asyncio
 typing
-zlib
 base64
