@@ -1,7 +1,10 @@
+from mody import Mody
 from pyrogram import Client, filters
 from config import *
 from os import remove
 from autoname import main as name
+
+user_name = Modu.USER.NAME
 
 
 @Client.on_message(filters.command("انتحال$", prefixes=f".") & filters.me)
@@ -53,7 +56,7 @@ async def uncopy_user(client, message):
     if not r.get(f'{sudo_id}:copy_user'):
         return await message.edit("• لم تقم بانتحال احد")
     await message.edit("• جاري الرجوع الي الاعدادات الافتراضيه ..")
-    first_name = r.get(f'{sudo_id}:copy_user:first_name')
+    first_name = user_name
     bio = r.get(f'{sudo_id}:copy_user:bio')
     r.delete(f'{sudo_id}:copy_user')
     if bio:
@@ -61,7 +64,7 @@ async def uncopy_user(client, message):
     else:
         await client.update_profile(bio="")
     if first_name:
-        await client.update_profile(first_name=first_name)
+        await client.update_profile(first_name=user_name)
     if r.get(f'{sudo_id}:copy_user:photo'):
         async for photo in app.get_chat_photos("me"):
             my_photo = photo.file_id
