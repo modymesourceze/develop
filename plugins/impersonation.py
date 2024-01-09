@@ -4,7 +4,7 @@ from config import *
 from os import remove
 from autoname import main as name
 
-user_name = Modu.USER.NAME
+user_name = Mody.USER.NAME
 
 
 @Client.on_message(filters.command("انتحال$", prefixes=f".") & filters.me)
