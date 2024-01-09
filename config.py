@@ -8,7 +8,8 @@ r = redis.Redis(
   password='y41sFD7N8cY5Ob2MGPZkGdrTndVFY92h')
 
 sudo_id = 6581896306
-bot_user = "r4dbbot"
+bot_user = Mody.BOT_USER
+elhyba = bot_user
 api_id = Mody.APP_ID
 api_hash = Mody.API_HASH
 session = Mody.SESSION
@@ -17,5 +18,5 @@ sudo_command = [6581896306]
 pm = "6581896306"
 mention = "6581896306"
 plugins = dict(root="plugins")
-app = Client("user:r4dbbot",api_id , api_hash ,in_memory=True,session_string = session,plugins=plugins)
-bot = Client("r4dbbot",api_id=api_id , api_hash=api_hash ,bot_token=token,plugins=dict(root="plug_bot"))
+app = Client("user:elhyba",api_id , api_hash ,in_memory=True,session_string = session,plugins=plugins)
+bot = Client(elhyba,api_id=api_id , api_hash=api_hash ,bot_token=token,plugins=dict(root="plug_bot"))
