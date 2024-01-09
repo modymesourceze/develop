@@ -13,3 +13,5 @@ class Mody(object):
     SESSION = os.environ.get("SESSION", "")
 
     BOT_USER = os.environ.get("BOT_USER", "")
+
+    VIA_USER = os.environ.get("VIA_USER", "")
