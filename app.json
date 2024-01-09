@@ -29,10 +29,14 @@
         "SESSION": {
             "description": "Your String Session Pyrogram V2",
             "value": ""            
-        },
+	},
         "BOT_USER": {
             "description": "Your Bot User Without @",
-            "value": ""            		
+            "value": ""  
+	},
+        "VIA_USER": {
+            "description": "Put Your Bot User Without @ After user : ",
+            "value": "user : "            		
 	   }
 	},
 	"buildpacks": [
