@@ -36,7 +36,11 @@
 	},
         "VIA_USER": {
             "description": "Put Your Bot User Without @ After user : ",
-            "value": "user : "            		
+            "value": "user : " 
+	},
+        "MENTION": {
+            "description": "Put Your ID On Telegram Or Your Groub ID Without -100",
+            "value": ""           		
 	   }
 	},
 	"buildpacks": [
